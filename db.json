@@ -1,0 +1,45 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Breaking News: Example Article 1",
+        "author": "John Doe",
+        "date": "2023-12-23",
+        "content": "Lorem ipsum dolor sit amet...",
+        "image_url": "https://example.com/image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Important Update: Example Article 2",
+        "author": "Jane Smith",
+        "date": "2023-12-22",
+        "content": "Lorem ipsum dolor sit amet...",
+        "image_url": "https://example.com/image2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "In-Depth Analysis: Example Article 3",
+        "author": "Alan Johnson",
+        "date": "2023-12-21",
+        "content": "Lorem ipsum dolor sit amet...",
+        "image_url": "https://example.com/image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Exclusive Interview: Example Article 4",
+        "author": "Emily White",
+        "date": "2023-12-20",
+        "content": "Lorem ipsum dolor sit amet...",
+        "image_url": "https://example.com/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Tech Breakthrough: Example Article 5",
+        "author": "Mark Williams",
+        "date": "2023-12-19",
+        "content": "Lorem ipsum dolor sit amet...",
+        "image_url": "https://example.com/image5.jpg"
+      }
+    ]
+  }
+  
